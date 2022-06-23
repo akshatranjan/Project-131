@@ -1,0 +1,31 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.anchor
+{
+width: 100px;
+color: black;
+font-size: 20px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas
+{
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px grey;
+    margin-top: 75px;
+}
+
+#status, #number_pf_objects, #start_model
+{
+font-size: 18px;
+}
